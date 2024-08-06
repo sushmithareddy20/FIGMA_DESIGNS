@@ -1,1 +1,1 @@
-Designed a mental health app - Vagaus using Figma
+Designed a mental health app - Vagus using Figma
